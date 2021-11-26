@@ -1,2 +1,3 @@
 # demo-rep
-This is demo to start using Git.
+
+This is demo to start using Git!
